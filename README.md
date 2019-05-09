@@ -1,5 +1,7 @@
 # `aucomp`
 
+This project demonstrates the aurelia-web-components plugin that transforms Aurelia elements into Web Component custom elements.
+
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
 For more information, go to https://aurelia.io/docs/cli/webpack
