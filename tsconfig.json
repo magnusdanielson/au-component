@@ -1,0 +1,27 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "module": "es2015",
+    "skipLibCheck": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "target": "es6",
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "moduleResolution": "node",
+    "allowJs": true,
+    "baseUrl": "src"
+  },
+  "include": [
+    "./src/**/*.ts",
+    "./test/**/*.ts",
+    "./types/**/*.d.ts"
+  ],
+  "atom": {
+    "rewriteTsconfig": false
+  }
+}
